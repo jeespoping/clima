@@ -1,4 +1,4 @@
-# AppUsuarios
+# Clima
 
 una aplicación web en Angular para obtener el clima de cualquier ciudad,
 
